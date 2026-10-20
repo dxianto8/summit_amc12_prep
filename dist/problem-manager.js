@@ -8,9 +8,9 @@ function managerPage(){
   const removed=matches.filter(p=>state.removedProblems.includes(p.id));
   const active=matches.length-removed.length;
   const list=matches.filter(p=>state.removedProblems.includes(p.id)===(managerTab==='removed')&&`${p.title} ${p.topic}`.toLowerCase().includes(managerQuery.toLowerCase()));
-  return `${heading('Make room for more good problems.','Add your own practice. Keep the bank useful as you grow.','MANAGE PROBLEMS')}
+  return `${heading('Manage problems','Add your own problems or remove and restore existing ones.')}
     <div class="manager-toolbar"><div class="manager-tabs" aria-label="Problem collection"><button data-manager-tab="active" class="${managerTab==='active'?'active':''}" aria-pressed="${managerTab==='active'}">In the bank <span>${active}</span></button><button data-manager-tab="removed" class="${managerTab==='removed'?'active':''}" aria-pressed="${managerTab==='removed'}">Removed <span>${removed.length}</span></button></div><button class="btn" data-action="add-problem">＋ Add problem</button></div>
-    <div class="manager-info">Your additions appear in practice, timed sets, and the daily rotation. Changes save in this browser on this device. Removed problems can be restored below.</div>
+    <div class="manager-info">Changes save on this device. Removed problems can be restored.</div>
     <label class="manager-search">Find a problem<input class="field" id="manager-search" placeholder="Search titles or topics…" value="${esc(managerQuery)}"></label>
     <div id="manager-results">${managerResults(list)}</div>`;
 }
@@ -21,7 +21,7 @@ function editorHTML(p){
   p=p||{mode:state.mode,topic:'Algebra',level:'Core',title:'',text:'',choices:['','','','',''],answer:'',hints:[],steps:[],idea:''};
   return `<div class="modal-bar"><h2 id="editor-title">${editing?'Edit your problem':'Add a problem'}</h2><button type="button" class="close" data-action="close-editor" aria-label="Close problem editor">×</button></div>
   <form id="problem-editor" data-edit-id="${editing?p.id:''}" class="problem-editor">
-    <p class="editor-intro">Give a good problem a home. Use plain text or math symbols such as ², √, and π.</p>
+    <p class="editor-intro">Use plain text or math symbols such as ², √, and π.</p>
     <div class="editor-grid"><label>Competition<select class="field" name="mode" id="editor-mode">${['AMC 12','AIME'].map(m=>`<option ${p.mode===m?'selected':''}>${m}</option>`).join('')}</select></label><label>Topic<select class="field" name="topic">${TOPICS.map(t=>`<option ${p.topic===t.name?'selected':''}>${t.name}</option>`).join('')}</select></label><label>Difficulty<select class="field" name="level">${['Foundation','Core','Stretch'].map(l=>`<option ${p.level===l?'selected':''}>${l}</option>`).join('')}</select></label></div>
     <label>Problem title<input name="title" class="field" required maxlength="120" value="${esc(p.title)}" placeholder="e.g. A different way to count"></label>
     <label>Problem statement<textarea name="text" class="field" required maxlength="6000" rows="4" placeholder="Write the full problem here…">${esc(p.text)}</textarea></label>

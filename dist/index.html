@@ -12,22 +12,28 @@
   <a class="skip" href="#main">Skip to content</a>
   <aside class="sidebar">
     <a href="#today" class="brand" aria-label="Summit home"><svg viewBox="0 0 40 34" aria-hidden="true"><path d="M3 29 19 3l17 26H3Z"/><path d="m12 15 7 7 8-7M19 22v7"/></svg><span>summit<span class="brand-dot">.</span></span></a>
-    <div class="side-label">YOUR MATH WORKSPACE</div>
     <nav aria-label="Main navigation">
-      <a href="#today" data-nav="today"><span class="nav-icon">◫</span> Today <span class="nav-dot"></span></a>
-      <a href="#practice" data-nav="practice"><span class="nav-icon">▦</span> Problem bank</a>
-      <a href="#manage" data-nav="manage"><span class="nav-icon">⊕</span> Manage problems</a>
-      <a href="#learn" data-nav="learn"><span class="nav-icon">▤</span> Learn & review</a>
-      <a href="#notebook" data-nav="notebook"><span class="nav-icon">✎</span> My notebook <span class="count" id="note-count">0</span></a>
-      <a href="#plan" data-nav="plan"><span class="nav-icon">☷</span> Study plan</a>
-      <a href="#progress" data-nav="progress"><span class="nav-icon">▥</span> My progress</a>
+      <a href="#today" data-nav="today"><span class="nav-icon" aria-hidden="true">◫</span> Today</a>
+      <a href="#practice" data-nav="practice"><span class="nav-icon" aria-hidden="true">▦</span> Problems</a>
+      <a href="#learn" data-nav="learn"><span class="nav-icon" aria-hidden="true">▤</span> Learn</a>
+      <a href="#notebook" data-nav="notebook"><span class="nav-icon" aria-hidden="true">✎</span> Notebook <span class="count" id="note-count">0</span></a>
     </nav>
-    <div class="side-bottom"><div class="side-art">a little better<br><em>every day.</em><svg viewBox="0 0 160 75" aria-hidden="true"><path d="M5 70 48 27l24 23L112 4l43 66"/><path d="m95 24 17 9 14-13"/><circle cx="42" cy="9" r="5"/></svg></div><div class="local-status"><span></span> Progress saved on this device</div><button class="quiet side-export" data-action="export">Export my progress ↗</button></div>
+    <details class="side-tools" id="more-tools">
+      <summary>More</summary>
+      <nav aria-label="More tools">
+        <a href="#manage" data-nav="manage">Manage problems</a>
+        <a href="#plan" data-nav="plan">Study plan</a>
+        <a href="#progress" data-nav="progress">Progress</a>
+        <a href="#sources" data-nav="sources">Sources &amp; license</a>
+      </nav>
+      <button class="quiet side-export" data-action="export">Export progress ↗</button>
+    </details>
+    <p class="device-note">Saved on this device</p>
   </aside>
   <div class="app-shell">
-    <header class="topbar"><span class="top-breadcrumb">YOUR DAILY ASCENT <span>/</span> <b id="crumb">Today</b></span><div class="header-right"><span id="date-label"></span><span class="header-divider"></span><span class="avatar" title="Your personal workspace">∑</span></div></header>
+
     <main id="main" tabindex="-1"></main>
-    <footer><span>Built for the joy of figuring it out.</span><span>Practice, reflection & progress · Independent of MAA <a href="https://maa.org/student-programs/amc/" target="_blank" rel="noopener">Official AMC info ↗</a> <a href="#sources">Sources &amp; license</a></span></footer>
+    <footer><span>Independent AMC 12 &amp; AIME practice</span><a href="#sources">Sources &amp; license</a></footer>
   </div>
   <dialog id="problem-dialog" aria-labelledby="problem-title"><div id="problem-modal"></div></dialog>
   <dialog id="lesson-dialog" aria-labelledby="lesson-title"><div id="lesson-modal"></div></dialog>
