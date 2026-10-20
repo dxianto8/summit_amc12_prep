@@ -12,6 +12,14 @@ python3 -m http.server 4173 --directory dist
 
 Open **http://localhost:4173**. No build or dependency installation is needed. Google Fonts are optional; the site uses system fonts if they are unavailable. All problem and solution images are included for offline study.
 
+## Deploy on Vercel
+
+Import this repository into Vercel with **Root Directory** set to the repository root (`./`). The included `vercel.json` sets Framework Preset to **Other**, skips installation and building, and publishes **`dist`**. No environment variables are required.
+
+For an existing Vercel project, keep Root Directory at `./` and deploy the latest `main` commit. If you previously changed build settings, the repository configuration overrides the framework, install command, build command, and output directory. A deployment of an older commit will not include this fix.
+
+The homepage is `/`; study pages use hash URLs such as `/#practice` and `/#manage`. No rewrite rules are needed.
+
 ## Add, edit, or remove problems
 
 1. Open **Manage problems** or click **Add problem** in the problem bank.
@@ -64,4 +72,4 @@ Summit is independent of CEMC, the University of Waterloo, and MAA.
 
 The CSV source index, PDF URLs and SHA-256 hashes, and extraction-page audit are in `dist/data/`.
 
-This is the completed local website package. It has not been published to a live hosting URL.
+The repository includes the complete static website and Vercel deployment configuration.
