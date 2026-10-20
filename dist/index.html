@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#133d32">
+  <meta name="description" content="Make a little progress, every day. Original AMC 12 and AIME practice, lessons, timed sets, and a personal error notebook.">
+  <title>Summit — AMC 12 & AIME preparation</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="problems.js" defer></script><script src="sourced-problems.js" defer></script><script src="source-support.js" defer></script><script src="problem-manager.js" defer></script><script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <aside class="sidebar">
+    <a href="#today" class="brand" aria-label="Summit home"><svg viewBox="0 0 40 34" aria-hidden="true"><path d="M3 29 19 3l17 26H3Z"/><path d="m12 15 7 7 8-7M19 22v7"/></svg><span>summit<span class="brand-dot">.</span></span></a>
+    <div class="side-label">YOUR MATH WORKSPACE</div>
+    <nav aria-label="Main navigation">
+      <a href="#today" data-nav="today"><span class="nav-icon">◫</span> Today <span class="nav-dot"></span></a>
+      <a href="#practice" data-nav="practice"><span class="nav-icon">▦</span> Problem bank</a>
+      <a href="#manage" data-nav="manage"><span class="nav-icon">⊕</span> Manage problems</a>
+      <a href="#learn" data-nav="learn"><span class="nav-icon">▤</span> Learn & review</a>
+      <a href="#notebook" data-nav="notebook"><span class="nav-icon">✎</span> My notebook <span class="count" id="note-count">0</span></a>
+      <a href="#plan" data-nav="plan"><span class="nav-icon">☷</span> Study plan</a>
+      <a href="#progress" data-nav="progress"><span class="nav-icon">▥</span> My progress</a>
+    </nav>
+    <div class="side-bottom"><div class="side-art">a little better<br><em>every day.</em><svg viewBox="0 0 160 75" aria-hidden="true"><path d="M5 70 48 27l24 23L112 4l43 66"/><path d="m95 24 17 9 14-13"/><circle cx="42" cy="9" r="5"/></svg></div><div class="local-status"><span></span> Progress saved on this device</div><button class="quiet side-export" data-action="export">Export my progress ↗</button></div>
+  </aside>
+  <div class="app-shell">
+    <header class="topbar"><span class="top-breadcrumb">YOUR DAILY ASCENT <span>/</span> <b id="crumb">Today</b></span><div class="header-right"><span id="date-label"></span><span class="header-divider"></span><span class="avatar" title="Your personal workspace">∑</span></div></header>
+    <main id="main" tabindex="-1"></main>
+    <footer><span>Built for the joy of figuring it out.</span><span>Practice, reflection & progress · Independent of MAA <a href="https://maa.org/student-programs/amc/" target="_blank" rel="noopener">Official AMC info ↗</a> <a href="#sources">Sources &amp; license</a></span></footer>
+  </div>
+  <dialog id="problem-dialog" aria-labelledby="problem-title"><div id="problem-modal"></div></dialog>
+  <dialog id="lesson-dialog" aria-labelledby="lesson-title"><div id="lesson-modal"></div></dialog>
+  <dialog id="editor-dialog" aria-labelledby="editor-title"><div id="editor-modal"></div></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

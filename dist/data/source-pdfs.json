@@ -1,0 +1,1226 @@
+[
+  {
+    "contest": "Fermat",
+    "year": 2000,
+    "kind": "Contest",
+    "file": "2000FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2000/2000FermatContest.pdf",
+    "bytes": 102682,
+    "sha256": "0197f5d38969efa465d66e249564c46cf2714f0b460f94b099958372a1a634f3"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2000,
+    "kind": "Solution",
+    "file": "2000FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2000/2000FermatSolution.pdf",
+    "bytes": 143931,
+    "sha256": "0d5d84e609f3f1cee43d55f61a06fb647d26e0a9603c156bd5e441041f76ca78"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2001,
+    "kind": "Contest",
+    "file": "2001FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2001/2001FermatContest.pdf",
+    "bytes": 66512,
+    "sha256": "30826d04df336dc8d29c7b6d3fcf5eeba280fb672b903a52ee43fc813ce805c8"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2001,
+    "kind": "Solution",
+    "file": "2001FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2001/2001FermatSolution.pdf",
+    "bytes": 116319,
+    "sha256": "2b6b110d8e965e290470c32e005669f8ba9f8e934d47239e063b6cb6442c5cb1"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2002,
+    "kind": "Contest",
+    "file": "2002FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2002/2002FermatContest.pdf",
+    "bytes": 85992,
+    "sha256": "9771e90ede04413b898420316904432c48cfa84f90c9a04125339fae8ac62108"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2002,
+    "kind": "Solution",
+    "file": "2002FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2002/2002FermatSolution.pdf",
+    "bytes": 120458,
+    "sha256": "ed20ee25b7dd75dccdbdaf4951ce97eaea2059c757ef48f84fcc6ea72f1d18c5"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2003,
+    "kind": "Contest",
+    "file": "2003FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2003/2003FermatContest.pdf",
+    "bytes": 124505,
+    "sha256": "7003b6505a8e651d70b73ad3f2a8f39437ae93817c0f2993c5efa2e90af9cf2f"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2003,
+    "kind": "Solution",
+    "file": "2003FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2003/2003FermatSolution.pdf",
+    "bytes": 143400,
+    "sha256": "d91374ee5b20cf913a1555068a7ad321263a936ccf851607214fd4faf67d2002"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2004,
+    "kind": "Contest",
+    "file": "2004FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2004/2004FermatContest.pdf",
+    "bytes": 160559,
+    "sha256": "0f03eb84955592fc859e947703053372b7786a344e590bb6852a201c5011de78"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2004,
+    "kind": "Solution",
+    "file": "2004FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2004/2004FermatSolution.pdf",
+    "bytes": 138420,
+    "sha256": "5fa2051b7103e1233271dbe4ee49d38c8e4a4d966c42b2da92b3d2feddf9fbd8"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2005,
+    "kind": "Contest",
+    "file": "2005FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2005/2005FermatContest.pdf",
+    "bytes": 235645,
+    "sha256": "def999ef7a534dfd53ef62144a0e04e2f83055d2e8c26df0c5067135c712f634"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2005,
+    "kind": "Solution",
+    "file": "2005FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2005/2005FermatSolution.pdf",
+    "bytes": 178450,
+    "sha256": "f2aa3cff1770a6010a57a9261c47a6275297ebea970d048983d4b0d0662146ed"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2006,
+    "kind": "Contest",
+    "file": "2006FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2006/2006FermatContest.pdf",
+    "bytes": 243905,
+    "sha256": "195306ddd2f83c56fe09e87e554d74be76f94fe938708b81330bd96b5878c82e"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2006,
+    "kind": "Solution",
+    "file": "2006FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2006/2006FermatSolution.pdf",
+    "bytes": 117473,
+    "sha256": "9e0b0da9d4dff098de59b3bdc0204928537ccb1067aaf03b9fd9c21e6a8441b9"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2007,
+    "kind": "Contest",
+    "file": "2007FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2007/2007FermatContest.pdf",
+    "bytes": 305131,
+    "sha256": "9ca41e8d6cb9e1e1ae3b96efa69549dcd295c373dfe53b3ccdfa50efee5e4003"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2007,
+    "kind": "Solution",
+    "file": "2007FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2007/2007FermatSolution.pdf",
+    "bytes": 111787,
+    "sha256": "1743752e72a07c0970925dbec39d75f7ae22e608a54c686f41bf8b319b7f129c"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2008,
+    "kind": "Contest",
+    "file": "2008FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2008/2008FermatContest.pdf",
+    "bytes": 407454,
+    "sha256": "958007c99699365a0832959f609d2fc8d0ae4087cc5e6d7668d73818e53f70df"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2008,
+    "kind": "Solution",
+    "file": "2008FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2008/2008FermatSolution.pdf",
+    "bytes": 116707,
+    "sha256": "e8590017e503fe3fcafadc8f6faee353204e333664c11421632d554197d09fad"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2009,
+    "kind": "Contest",
+    "file": "2009FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2009/2009FermatContest.pdf",
+    "bytes": 220887,
+    "sha256": "5d47f2e612bd62afa07a41a76b969890abff33a11fc71cce57919d595095026f"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2009,
+    "kind": "Solution",
+    "file": "2009FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2009/2009FermatSolution.pdf",
+    "bytes": 126910,
+    "sha256": "47f5391a4d02f7a39c9be5c736f83260de630bbcabff346f2839723b004da1d2"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2010,
+    "kind": "Contest",
+    "file": "2010FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2010/2010FermatContest.pdf",
+    "bytes": 949413,
+    "sha256": "0b468c6f8983fdefb67842c58f1854a1e7c611aeb21ca886f19ece8467307dbb"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2010,
+    "kind": "Solution",
+    "file": "2010FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2010/2010FermatSolution.pdf",
+    "bytes": 121389,
+    "sha256": "2d0cb7f2f620a92bbccf5966733728fbb9bffa5721b4f522936b465710578af4"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2011,
+    "kind": "Contest",
+    "file": "2011FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2011/2011FermatContest.pdf",
+    "bytes": 327866,
+    "sha256": "c0e1f8453e4628edc903c185029f5002de7f7d2344a7603cd41f866d396ed4c9"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2011,
+    "kind": "Solution",
+    "file": "2011FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2011/2011FermatSolution.pdf",
+    "bytes": 166388,
+    "sha256": "8ba53fb0261db45e0d06cca653461fc1dc9217faa0e71ee46ade1f1def257360"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2012,
+    "kind": "Contest",
+    "file": "2012FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2012/2012FermatContest.pdf",
+    "bytes": 306225,
+    "sha256": "4e2700004cfd87ffb935cdb62c6d4a36f544d007f9814e028e7e4106f04e3595"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2012,
+    "kind": "Solution",
+    "file": "2012FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2012/2012FermatSolution.pdf",
+    "bytes": 175098,
+    "sha256": "363ae29a1f117452318fb6416a62795ac991cffb4e6cf15b6b11b0cd7ab386cd"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2013,
+    "kind": "Contest",
+    "file": "2013FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2013/2013FermatContest.pdf",
+    "bytes": 262704,
+    "sha256": "5b07724dcecf954c3d55795ff1f2de57f7c4125ddc9ce6def63635a2934bb1ce"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2013,
+    "kind": "Solution",
+    "file": "2013FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2013/2013FermatSolution.pdf",
+    "bytes": 249182,
+    "sha256": "9285178f1884d939bc2c30976069b2f81f23c7a4531ccbd0fabc0c7ad42ae509"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2014,
+    "kind": "Contest",
+    "file": "2014FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2014/2014FermatContest.pdf",
+    "bytes": 2152922,
+    "sha256": "da0d1c9f39c01ad09a3c90760d43e3b7a36a181d3b6f6bfd20996ca067e70422"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2014,
+    "kind": "Solution",
+    "file": "2014FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2014/2014FermatSolution.pdf",
+    "bytes": 2576913,
+    "sha256": "d3101b81b15917300737290eac88aa348b5662b27d2f99fb4fc87e4895e0350f"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2015,
+    "kind": "Contest",
+    "file": "2015FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2015/2015FermatContest.pdf",
+    "bytes": 1408723,
+    "sha256": "d361e5cb034bd44010b06f95e56744dc3b36642c5be442858577d262cf229810"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2015,
+    "kind": "Solution",
+    "file": "2015FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2015/2015FermatSolution.pdf",
+    "bytes": 1711895,
+    "sha256": "b53705dae9ae622a5c94ec1ab9259d78c87a24b1d16caba7e59532399d419d19"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2016,
+    "kind": "Contest",
+    "file": "2016FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2016/2016FermatContest.pdf",
+    "bytes": 2799971,
+    "sha256": "8449b3350ea382f8b7876bc3efe1779934d990f31567b2a2b111a2fe6150bf5e"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2016,
+    "kind": "Solution",
+    "file": "2016FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2016/2016FermatSolution.pdf",
+    "bytes": 1862414,
+    "sha256": "cfbbed176e6d447154571b357a095d08875221a82307a101bdd1a852490ed8d6"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2017,
+    "kind": "Contest",
+    "file": "2017FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2017/2017FermatContest.pdf",
+    "bytes": 1337688,
+    "sha256": "1cb9348373a04e6d459a51b9414e58d8a0968d55da65b4e849eaf9b61823a937"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2017,
+    "kind": "Solution",
+    "file": "2017FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2017/2017FermatSolution.pdf",
+    "bytes": 417455,
+    "sha256": "0f177361606aad358e0749c441c762752107bc10ee8f0aba896f0aab00f4ed52"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2018,
+    "kind": "Contest",
+    "file": "2018FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2018/2018FermatContest.pdf",
+    "bytes": 1324654,
+    "sha256": "210a1eebf199fd06c4914527be23a87183fb1e92d2012e6c70cbe57d4d945cb2"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2018,
+    "kind": "Solution",
+    "file": "2018FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2018/2018FermatSolution.pdf",
+    "bytes": 1533271,
+    "sha256": "d4388da2c8b9a7f9fac7695efb316a2d3da9d7b468a06540d473611d03309ad8"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2019,
+    "kind": "Contest",
+    "file": "2019FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2019/2019FermatContest.pdf",
+    "bytes": 1611585,
+    "sha256": "61e33d066839de639128fe4f77e2f2ff38b27132b3b4157980994191c86bcbf9"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2019,
+    "kind": "Solution",
+    "file": "2019FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2019/2019FermatSolution.pdf",
+    "bytes": 1682827,
+    "sha256": "8c23035c3d5c6d236766e65505a521044a6c5ab06ffbb8e7dfd256440df6d75c"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2020,
+    "kind": "Contest",
+    "file": "2020FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2020/2020FermatContest.pdf",
+    "bytes": 1346187,
+    "sha256": "071758b77caf8fa01da9bbb1e7c356c6117a0f8ca09cbf7cd43068a69100cbd2"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2020,
+    "kind": "Solution",
+    "file": "2020FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2020/2020FermatSolution.pdf",
+    "bytes": 1606394,
+    "sha256": "068007c98a6dafc29ebd6604eb2a1ebc028f795b9d1ff3d4cd04d9e8de0567b3"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2021,
+    "kind": "Contest",
+    "file": "2021FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2021/2021FermatContest.pdf",
+    "bytes": 1147764,
+    "sha256": "d511fa255849c92ceee3aa2f7010e0847aea119f00af1c50c29d55896295bf64"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2021,
+    "kind": "Solution",
+    "file": "2021FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2021/2021FermatSolution.pdf",
+    "bytes": 943421,
+    "sha256": "9afe40b4ce682a8b878d85e6360e1f213e5feec284adbad608c2959b2dee303e"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2022,
+    "kind": "Contest",
+    "file": "2022FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2022/2022FermatContest.pdf",
+    "bytes": 828789,
+    "sha256": "4ee9924eba6eb4110d390a1da942e0b819df66a9045915fb5fddb12156cae946"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2022,
+    "kind": "Solution",
+    "file": "2022FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2022/2022FermatSolution.pdf",
+    "bytes": 664212,
+    "sha256": "446a0c085accc2dff0c8ca877837c0ede45effc180495f62ad5afea54c48dc57"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2023,
+    "kind": "Contest",
+    "file": "2023FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2023/2023FermatContest.pdf",
+    "bytes": 378517,
+    "sha256": "92d495309cff757b24f29fa609ccaec11d7d3e871d4a3fb3c80ccb08f8c75f66"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2023,
+    "kind": "Solution",
+    "file": "2023FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2023/2023FermatSolution.pdf",
+    "bytes": 1114402,
+    "sha256": "eed36daf0171a0a5022ed2745cd4887ccedf2b76c5ccd486b26c16f9dc16e96e"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2024,
+    "kind": "Contest",
+    "file": "2024FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2024/2024FermatContest.pdf",
+    "bytes": 1678555,
+    "sha256": "625e3e796a4b0b5db049ec7d294e0ae307a71cc87f4d54f69bb7b631ec5d7048"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2024,
+    "kind": "Solution",
+    "file": "2024FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2024/2024FermatSolution.pdf",
+    "bytes": 1248052,
+    "sha256": "be7907dad98da7075548080b770f3d2f2bc262fe1b7808ce017c2b0b2d5bd986"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2025,
+    "kind": "Contest",
+    "file": "2025FermatContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2025/2025FermatContest.pdf",
+    "bytes": 721594,
+    "sha256": "fa7faf3b100e3cc3f32fd373e4488a0e00a6b04eae14636c8f04f469271c9431"
+  },
+  {
+    "contest": "Fermat",
+    "year": 2025,
+    "kind": "Solution",
+    "file": "2025FermatSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2025/2025FermatSolution.pdf",
+    "bytes": 1445454,
+    "sha256": "192a98269a38f3a2eb0d6db4dc8cbd7d0fa15017320aec721b2e7ac103d3e786"
+  },
+  {
+    "contest": "Euclid",
+    "year": 1998,
+    "kind": "Contest",
+    "file": "1998EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/1998/1998EuclidContest.pdf",
+    "bytes": 114233,
+    "sha256": "7aebcb06657a732ca5284f7b6a5805d584b1d1fc915ced72f63c12b8e534538a"
+  },
+  {
+    "contest": "Euclid",
+    "year": 1998,
+    "kind": "Solution",
+    "file": "1998EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/1998/1998EuclidSolution.pdf",
+    "bytes": 164806,
+    "sha256": "6a8a4585191ba3dcd0498f62d4a56161a1b6b0208ee0bde209e62ec51198b571"
+  },
+  {
+    "contest": "Euclid",
+    "year": 1999,
+    "kind": "Contest",
+    "file": "1999EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/1999/1999EuclidContest.pdf",
+    "bytes": 105070,
+    "sha256": "fb8ed751c00accaf14ac7f18a697224592c7344f7563e5fb836e42926f3e6072"
+  },
+  {
+    "contest": "Euclid",
+    "year": 1999,
+    "kind": "Solution",
+    "file": "1999EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/1999/1999EuclidSolution.pdf",
+    "bytes": 140258,
+    "sha256": "7b958c4a19c3824a53cfbb79279599626995009cbf61b954806cf7c2418bf12b"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2000,
+    "kind": "Contest",
+    "file": "2000EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2000/2000EuclidContest.pdf",
+    "bytes": 111055,
+    "sha256": "068c45a6c9f42eb6efd8f7eae11c1da9c156303f278de3a48f40eda03968e76c"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2000,
+    "kind": "Solution",
+    "file": "2000EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2000/2000EuclidSolution.pdf",
+    "bytes": 146393,
+    "sha256": "ebecef053107849b0560f000e09eebaa75c17bc4b382db94b5a5acf3c3cafaf9"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2001,
+    "kind": "Contest",
+    "file": "2001EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2001/2001EuclidContest.pdf",
+    "bytes": 62187,
+    "sha256": "330ecc8264c1c8f0bb2eaf1b2ee8355fbb4858feb377a34d92b325f572630c01"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2001,
+    "kind": "Solution",
+    "file": "2001EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2001/2001EuclidSolution.pdf",
+    "bytes": 197391,
+    "sha256": "271acd1eea7b2ec38471233b1dd344bf092bf6ce0fd3bda1738c752c1e71dfd6"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2002,
+    "kind": "Contest",
+    "file": "2002EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2002/2002EuclidContest.pdf",
+    "bytes": 132332,
+    "sha256": "071b2e99c8358d76c18fde226ec695b8f3cbb7fddba3e35dbd26fe8bb06db8a1"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2002,
+    "kind": "Solution",
+    "file": "2002EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2002/2002EuclidSolution.pdf",
+    "bytes": 185214,
+    "sha256": "8b7012fe1b56ea1edc6419d7cb79b255fe164d7d3eefc79fa8e5db67f24483b7"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2003,
+    "kind": "Contest",
+    "file": "2003EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2003/2003EuclidContest.pdf",
+    "bytes": 176290,
+    "sha256": "b00ebfd9e42932902d6bd5e9410d2bbf0acafbf2950ae0b7133a1ccf4fda727d"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2003,
+    "kind": "Solution",
+    "file": "2003EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2003/2003EuclidSolution.pdf",
+    "bytes": 163372,
+    "sha256": "a89a5162c69a1fb0987f063b35ee301585411c86a1b9a55a8cb8fbb6efd4e66b"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2004,
+    "kind": "Contest",
+    "file": "2004EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2004/2004EuclidContest.pdf",
+    "bytes": 173671,
+    "sha256": "b9a4051fe75ba061ffa8a8165856fe09b10a25fbf2eca2a76e7319dc51ed391f"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2004,
+    "kind": "Solution",
+    "file": "2004EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2004/2004EuclidSolution.pdf",
+    "bytes": 4783564,
+    "sha256": "3793283e6861ee3d21c01c9c9f4cf286a6eeb8c335b55fb90ff0b2d79917f7ff"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2005,
+    "kind": "Contest",
+    "file": "2005EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2005/2005EuclidContest.pdf",
+    "bytes": 240957,
+    "sha256": "6348c9cba90a74635a2966f9a548351fd1ca3de4d3022f747449fc96f1a19464"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2005,
+    "kind": "Solution",
+    "file": "2005EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2005/2005EuclidSolution.pdf",
+    "bytes": 253527,
+    "sha256": "cb05f4672159fbff303919dc4f98d7add7c0ea38a0e0f15d62a8d60649db4680"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2006,
+    "kind": "Contest",
+    "file": "2006EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2006/2006EuclidContest.pdf",
+    "bytes": 271681,
+    "sha256": "88fc6682d523a9bbe689b7edb28de4ca51e5784d7fa84e49be64e5dcaf9a1a6f"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2006,
+    "kind": "Solution",
+    "file": "2006EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2006/2006EuclidSolution.pdf",
+    "bytes": 153855,
+    "sha256": "32dca9d762fa248cf52339d452076d66781d10a8a9238f2391a93f578058801e"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2007,
+    "kind": "Contest",
+    "file": "2007EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2007/2007EuclidContest.pdf",
+    "bytes": 333985,
+    "sha256": "b151d628fedc08e5a5b07d24c7feb255b83efce28247bec21d6d62e5035655ee"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2007,
+    "kind": "Solution",
+    "file": "2007EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2007/2007EuclidSolution.pdf",
+    "bytes": 125226,
+    "sha256": "793d1aec4367f3bf296ea9ea6ae370642aaf66b656e758573b79703d594e590c"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2008,
+    "kind": "Contest",
+    "file": "2008EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2008/2008EuclidContest.pdf",
+    "bytes": 428093,
+    "sha256": "5f7cf1ca8a9c101868dd0d2faa4399104300240bd9b4bf1a2d2506762705cd03"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2008,
+    "kind": "Solution",
+    "file": "2008EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2008/2008EuclidSolution.pdf",
+    "bytes": 132647,
+    "sha256": "d94d9acfe01a9ad632fd870b56f9a2f5d174f9aeeb45b27b8d3dcd021d79f8e1"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2009,
+    "kind": "Contest",
+    "file": "2009EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2009/2009EuclidContest.pdf",
+    "bytes": 229097,
+    "sha256": "83c4b88c9a5ef08884018ee5f2df6922a1b0f85d909cc8facea106f114487d1f"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2009,
+    "kind": "Solution",
+    "file": "2009EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2009/2009EuclidSolution.pdf",
+    "bytes": 127726,
+    "sha256": "c4ede2bf99b99ac58692150bd9a26f74b06bb6e22a6b843a83a8dd3480ee8a2e"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2010,
+    "kind": "Contest",
+    "file": "2010EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2010/2010EuclidContest.pdf",
+    "bytes": 177134,
+    "sha256": "1c9ffb9d24a1a57bd07dfe52bbdb104344db42523cfc1b225123f56141ef5698"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2010,
+    "kind": "Solution",
+    "file": "2010EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2010/2010EuclidSolution.pdf",
+    "bytes": 202591,
+    "sha256": "a306205e0e53dd67e0635b15f8ed20eae9a53763aa8184792af259f2047e72b1"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2011,
+    "kind": "Contest",
+    "file": "2011EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2011/2011EuclidContest.pdf",
+    "bytes": 340204,
+    "sha256": "48f072c38989a2d81b70b4788c17b89267a567fe752680d98052bf2be7677fed"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2011,
+    "kind": "Solution",
+    "file": "2011EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2011/2011EuclidSolution.pdf",
+    "bytes": 196087,
+    "sha256": "14a8d9b728ad42edc587c786846503fc5b5e9a3c959975c2a7eb4505f25513a0"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2012,
+    "kind": "Contest",
+    "file": "2012EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2012/2012EuclidContest.pdf",
+    "bytes": 215014,
+    "sha256": "1749e9e31dd501d310f4fef31834fbd5f62afe95e5d2815439c724c1535c841b"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2012,
+    "kind": "Solution",
+    "file": "2012EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2012/2012EuclidSolution.pdf",
+    "bytes": 182863,
+    "sha256": "a15755981489741454037cb94873ef09c40e8f3129a0b9e962ca699198cfe07f"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2013,
+    "kind": "Contest",
+    "file": "2013EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2013/2013EuclidContest.pdf",
+    "bytes": 252089,
+    "sha256": "5aa9e30dbae761eadc6bdecd8eb615f07d6bbc84022e1349f5fee057d84b3d94"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2013,
+    "kind": "Solution",
+    "file": "2013EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2013/2013EuclidSolution.pdf",
+    "bytes": 243842,
+    "sha256": "417b13c5783f0c19b8a1b5729015bbe848b230038aa9df23748918677ddb7c20"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2014,
+    "kind": "Contest",
+    "file": "2014EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2014/2014EuclidContest.pdf",
+    "bytes": 969272,
+    "sha256": "5822532fe5a4e0669204e840b2af3f24fa3635352c4da9d8e615c48a3593687a"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2014,
+    "kind": "Solution",
+    "file": "2014EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2014/2014EuclidSolution.pdf",
+    "bytes": 702523,
+    "sha256": "866b7324f979931e20338b9feac9c29e20519b8249be7839c489e45d8ea9ff27"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2015,
+    "kind": "Contest",
+    "file": "2015EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2015/2015EuclidContest.pdf",
+    "bytes": 1109147,
+    "sha256": "82938ce3ab9645159d401caee9060c68168ea423a6bc0e93b8c0fef3231580e7"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2015,
+    "kind": "Solution",
+    "file": "2015EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2015/2015EuclidSolution.pdf",
+    "bytes": 1037242,
+    "sha256": "75cb715ff06641d76348fb2a15736c8e050da269f510f480e7ba76a2e56171aa"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2016,
+    "kind": "Contest",
+    "file": "2016EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2016/2016EuclidContest.pdf",
+    "bytes": 1017409,
+    "sha256": "1020b092f625fd9c7b4f7030f68790cd9ba1caed6d0787a5fd96b9ca2d8bb8fa"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2016,
+    "kind": "Solution",
+    "file": "2016EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2016/2016EuclidSolution.pdf",
+    "bytes": 831063,
+    "sha256": "bfe7937d56398fd368b296e6d2bc92c55ec7270ebb828574afbd54c9398caede"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2017,
+    "kind": "Contest",
+    "file": "2017EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2017/2017EuclidContest.pdf",
+    "bytes": 986400,
+    "sha256": "3d85dbedf8e3de2fb4bed034337212233ebaac3efb737e497a1d5989c2ea718f"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2017,
+    "kind": "Solution",
+    "file": "2017EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2017/2017EuclidSolution.pdf",
+    "bytes": 2032891,
+    "sha256": "aedc2621992818eb0ec0b65a5532457aeeaf434f30623a52741e230d49ad16f3"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2018,
+    "kind": "Contest",
+    "file": "2018EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2018/2018EuclidContest.pdf",
+    "bytes": 1243617,
+    "sha256": "a60bb902f158d40e437484f298f59b81feca0e47bc561b3ed22a130a0379332d"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2018,
+    "kind": "Solution",
+    "file": "2018EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2018/2018EuclidSolution.pdf",
+    "bytes": 2772665,
+    "sha256": "729d8ffb90ab0d44eddaf3e7f5655cb610369ce7a3277449aecbc14e26eae5f5"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2019,
+    "kind": "Contest",
+    "file": "2019EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2019/2019EuclidContest.pdf",
+    "bytes": 962260,
+    "sha256": "6cbbd60997682414a8ca2cc66734edb0db450e1dff493f4285727fb8c8b6f154"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2019,
+    "kind": "Solution",
+    "file": "2019EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2019/2019EuclidSolution.pdf",
+    "bytes": 788086,
+    "sha256": "9187ce5e9f6d3b0469df994fdc2bcd6d492313eb3509dc83324c02a8a06103dd"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2020,
+    "kind": "Contest",
+    "file": "2020EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2020/2020EuclidContest.pdf",
+    "bytes": 828529,
+    "sha256": "fa4e613cfd26fba192219e6900375f5bc82f6f3080a0b08f20c5e5e4a79495be"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2020,
+    "kind": "Solution",
+    "file": "2020EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2025/2020EuclidSolution.pdf",
+    "bytes": 1660092,
+    "sha256": "c95a88e444f778fac1c5d76b541cf2f57dfbee26c7bc2392c7153ebcc582ab81"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2021,
+    "kind": "Contest",
+    "file": "2021EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2021/2021EuclidContest.pdf",
+    "bytes": 1185957,
+    "sha256": "0dd8494176d9a44993252106a3934cd0f3d40d7292b40ff8e0dd4853a803a79d"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2021,
+    "kind": "Solution",
+    "file": "2021EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2021/2021EuclidSolution.pdf",
+    "bytes": 1011165,
+    "sha256": "7976c4952a2b4b84cb4e9aa78e23fd2e4e9c3d66a2449b06b215a909e76d6699"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2022,
+    "kind": "Contest",
+    "file": "2022EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2022/2022EuclidContest.pdf",
+    "bytes": 811469,
+    "sha256": "58632a9d1fc425bf5c65c15d5e4124734c6e9e0be8cd05084eff33e8d77cb2b5"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2022,
+    "kind": "Solution",
+    "file": "2022EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2022/2022EuclidSolution.pdf",
+    "bytes": 1648258,
+    "sha256": "3396a215963d50e4968ccf5fc33e1e0e2177fa2e8664bcd8216a20329fc82388"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2023,
+    "kind": "Contest",
+    "file": "2023EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2023/2023EuclidContest.pdf",
+    "bytes": 798432,
+    "sha256": "9e4da7f44a1cbd1a4dd5d7a9e1c5e1e5b493d93ae9bddd9ee418c42674feb08b"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2023,
+    "kind": "Solution",
+    "file": "2023EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2023/2023EuclidSolution.pdf",
+    "bytes": 1255480,
+    "sha256": "cae52b26d98bf95dca9593055e432c07df156ea74424f2c6d04e903b2559fe8f"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2024,
+    "kind": "Contest",
+    "file": "2024EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2024/2024EuclidContest.pdf",
+    "bytes": 931703,
+    "sha256": "f65a70ba508d5d02c1c1207bf11c66dab612bee9ab350cc2e17fbfacf6f432cd"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2024,
+    "kind": "Solution",
+    "file": "2024EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2024/2024EuclidSolution.pdf",
+    "bytes": 1456699,
+    "sha256": "66b7ef7c0b670f899303592a9ab40abba6765e3495895d0e336ef59e0855b875"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2025,
+    "kind": "Contest",
+    "file": "2025EuclidContest.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2025/2025EuclidContest.pdf",
+    "bytes": 1244531,
+    "sha256": "66488877108b5a7947f9c15bb8fa626ed2c4aab87a32c4646295233c93abc34c"
+  },
+  {
+    "contest": "Euclid",
+    "year": 2025,
+    "kind": "Solution",
+    "file": "2025EuclidSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2025/2025EuclidSolution.pdf",
+    "bytes": 1802491,
+    "sha256": "42dea156db91e5cd9ec1c00f4807682583370fdb96b9b259847750544f435c38"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2011,
+    "kind": "Contest",
+    "file": "2011CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2011/2011CSMC.pdf",
+    "bytes": 145009,
+    "sha256": "7f4ee254fb7da34a9c0cd5484ec5bda0d5f89747b6c79fb8f4fe2cb2f0cc15ff"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2011,
+    "kind": "Solution",
+    "file": "2011CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2011/2011CSMCSolution.pdf",
+    "bytes": 162991,
+    "sha256": "fd0d631201bbea955fb9fda6045299c1f71f9678e9edad51e33b127e0b7513e5"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2012,
+    "kind": "Contest",
+    "file": "2012CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2012/2012CSMC.pdf",
+    "bytes": 154590,
+    "sha256": "7cca4a1605d48417b1c62ced344b76563f643ea86032e6581476b2fbaecfa64b"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2012,
+    "kind": "Solution",
+    "file": "2012CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2012/2012CSMCSolution.pdf",
+    "bytes": 171169,
+    "sha256": "aed731d3d86d457397ad44a4ce7fde9b04b5d8b5121ec17cc388d250a099b81a"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2013,
+    "kind": "Contest",
+    "file": "2013CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2013/2013CSMC.pdf",
+    "bytes": 213493,
+    "sha256": "1318a267e32e7567d55676d7ceaf6f038f9edb50c6ebcd9c02efc7b3c6b531a9"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2013,
+    "kind": "Solution",
+    "file": "2013CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2013/2013CSMCSolution.pdf",
+    "bytes": 161037,
+    "sha256": "708ff754578ea29b8361ff8082888973b6b3d2c32f4e62a1f0a8efa3b0ab2347"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2014,
+    "kind": "Contest",
+    "file": "2014CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2014/2014CSMC.pdf",
+    "bytes": 2302106,
+    "sha256": "cdb71e6d87c34829b60755f4e00e5d2f9c5a3106d76edab66cf2c634813b89e5"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2014,
+    "kind": "Solution",
+    "file": "2014CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2014/2014CSMCSolution.pdf",
+    "bytes": 2889240,
+    "sha256": "6d8bf8a36ecafcbaa38abe648cec90526b8bd196acb135aeaf5f7f0dcd6a6e43"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2015,
+    "kind": "Contest",
+    "file": "2015CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2015/2015CSMC.pdf",
+    "bytes": 876289,
+    "sha256": "d8c4860b2a73ea42054f29aea9e7a698764e8b9d3fb4dc054760581c1dd7e464"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2015,
+    "kind": "Solution",
+    "file": "2015CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2015/2015CSMCSolution.pdf",
+    "bytes": 169476,
+    "sha256": "464c436bcbdb4a99f50b8b185a435ac8674d27376bf96b2958d3a3a88f74e91b"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2016,
+    "kind": "Contest",
+    "file": "2016CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2016/2016CSMC.pdf",
+    "bytes": 488840,
+    "sha256": "dda4523ed641d543596d8750baafa0597ee3787f0e72d5dd0c66e8c592f23f1c"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2016,
+    "kind": "Solution",
+    "file": "2016CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2016/2016CSMCSolution.pdf",
+    "bytes": 703449,
+    "sha256": "90b7141df88c096a404249aaa4c5c51ceeb75843d235be5a578da298711fe25f"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2017,
+    "kind": "Contest",
+    "file": "2017CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2017/2017CSMC.pdf",
+    "bytes": 891787,
+    "sha256": "d7da58f206c752621a1aaffe29a3ebd9eddcfd7d986e4aacd5f9e34de99fa8dc"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2017,
+    "kind": "Solution",
+    "file": "2017CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2017/2017CSMCSolution.pdf",
+    "bytes": 343437,
+    "sha256": "d1d33216bdcfe9082588e840936d015f6caf00348b61d7790d6cf2a9b58b55cd"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2018,
+    "kind": "Contest",
+    "file": "2018CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2018/2018CSMC.pdf",
+    "bytes": 633237,
+    "sha256": "cbd09d1968946c64ffc4abd127340f72b6c8e7ced92defce0807133e8f1a450c"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2018,
+    "kind": "Solution",
+    "file": "2018CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2018/2018CSMCSolution.pdf",
+    "bytes": 258244,
+    "sha256": "f505ae23b565840df840462d2e9b3a5e3460f2b1a21bb48f3afba21da4750f3c"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2019,
+    "kind": "Contest",
+    "file": "2019CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2019/2019CSMC.pdf",
+    "bytes": 652678,
+    "sha256": "35a1bc1d3c4f5962a4c4f647ddea86a40163b4cbbc53019ef6436d5242ca784e"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2019,
+    "kind": "Solution",
+    "file": "2019CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2019/2019CSMCSolution.pdf",
+    "bytes": 1172518,
+    "sha256": "800e4cd5d5c1edcb4c09bb02f0259867c4641e513b02717e8d24043857a4ea2d"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2021,
+    "kind": "Contest",
+    "file": "2021CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2021/2021CSMC.pdf",
+    "bytes": 228573,
+    "sha256": "70cd2376857d2f4ce560d09be26212b0f02af550a190ab8019a72e643de96aaf"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2021,
+    "kind": "Solution",
+    "file": "2021CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2021/2021CSMCSolution.pdf",
+    "bytes": 223815,
+    "sha256": "c9a9c2488b97580d406fdf705182bd0f0fad09ebdb2c7708c90f56604639a79c"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2022,
+    "kind": "Contest",
+    "file": "2022CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2022/2022CSMC.pdf",
+    "bytes": 792402,
+    "sha256": "5a1bd08435e4fd378017dc8d53f8b9c54883033092f7c458b7e88342f2e6b4b6"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2022,
+    "kind": "Solution",
+    "file": "2022CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2022/2022CSMCSolution.pdf",
+    "bytes": 310852,
+    "sha256": "c7117f52a663a8838deb01a9efe216eb1cdea08906cb826b2baf74f570710068"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2023,
+    "kind": "Contest",
+    "file": "2023CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2023/2023CSMC.pdf",
+    "bytes": 467541,
+    "sha256": "b4120c3d7861991f861ffc1ee5deb93139084f16d6619e6b4fce41c417ff165e"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2023,
+    "kind": "Solution",
+    "file": "2023CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2023/2023CSMCSolution.pdf",
+    "bytes": 487524,
+    "sha256": "8fcb4a7ca9652d639bc05dd755e2017bd7352a8da45c8804069847067fc9e04b"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2024,
+    "kind": "Contest",
+    "file": "2024CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2024/2024CSMC.pdf",
+    "bytes": 586960,
+    "sha256": "7739c08b655251e30a59ffda1796faa4452a6f67ce7f9d1bb242c3d51c4b8ca9"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2024,
+    "kind": "Solution",
+    "file": "2024CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2024/2024CSMCSolution.pdf",
+    "bytes": 480300,
+    "sha256": "67de14a29d848726dfa047dfbd2f38669824f7b6fe8f78ad50a977daa7ed740f"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2025,
+    "kind": "Contest",
+    "file": "2025CSMC.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2025/2025CSMC.pdf",
+    "bytes": 188083,
+    "sha256": "a028fd722afa73de23598038c505aea87960f162c7cfa6dc34007b1a8063bd36"
+  },
+  {
+    "contest": "CSMC",
+    "year": 2025,
+    "kind": "Solution",
+    "file": "2025CSMCSolution.pdf",
+    "url": "https://cemc.uwaterloo.ca/sites/default/files/documents/2025/2025CSMCSolution.pdf",
+    "bytes": 191781,
+    "sha256": "47b7ca79b5b08374a7130c6c7dffa53ad3fb8c42c42adba6134947fe89e80cf8"
+  }
+]

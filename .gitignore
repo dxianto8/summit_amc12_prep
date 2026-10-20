@@ -1,0 +1,6 @@
+.DS_Store
+.openai/
+.env
+.env.*
+*.zip
+__pycache__/
