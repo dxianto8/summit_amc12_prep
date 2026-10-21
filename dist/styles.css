@@ -96,3 +96,30 @@ footer {max-width:1180px;padding:20px 40px;font-size:10px;justify-content:space-
 
 .sidebar nav a .count[hidden] {display:none}
 @media(max-width:650px) {.sidebar>nav a .count {display:none}}
+
+
+/* Match dropdown indicators to the left edge of their labels. */
+select.field {
+  -webkit-appearance:none;
+  appearance:none;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='m3 4.5 3 3 3-3' fill='none' stroke='%2362745a' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;
+  background-position:left 12px center;
+  padding-left:32px;
+  padding-right:12px;
+}
+summary {display:flex;align-items:center;gap:9px;list-style:none}
+summary::-webkit-details-marker {display:none}
+summary::marker {content:''}
+summary::before {content:'';width:6px;height:6px;flex:none;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(-45deg);margin:0 2px}
+details[open]>summary::before {transform:rotate(45deg);margin-top:-3px}
+.bank-navigation {display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:16px;padding:14px 24px;position:sticky;bottom:0;background:white;border-top:1px solid var(--line);z-index:2}
+.bank-navigation .btn:first-child {justify-self:start}
+.bank-navigation .btn:last-child {justify-self:end}
+.bank-position {font-size:12px;color:#7b8780;font-variant-numeric:tabular-nums;white-space:nowrap}
+@media(max-width:500px) {
+  .bank-navigation {padding:12px 16px;gap:10px}
+  .bank-navigation .btn {padding:9px 10px;gap:6px}
+  .bank-position {font-size:11px}
+}
+@media(forced-colors:active) {select.field {appearance:auto;background-image:none;padding-left:12px}}
