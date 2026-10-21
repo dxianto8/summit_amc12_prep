@@ -2,23 +2,7 @@
 
 A responsive study website with 632 built-in problems: 32 original starter problems plus **300 sourced problems for each preparation track**.
 
-## Run it
-
-Open a terminal at the repository root (or in the unzipped `summit-math-prep` folder), and run:
-
-```sh
-python3 -m http.server 4173 --directory dist
-```
-
-Open **http://localhost:4173**. No build or dependency installation is needed. Google Fonts are optional; the site uses system fonts if they are unavailable. All problem and solution images are included for offline study.
-
-## Deploy on Vercel
-
-Import this repository into Vercel with **Root Directory** set to the repository root (`./`). The included `vercel.json` sets Framework Preset to **Other**, skips installation and building, and publishes **`dist`**. No environment variables are required.
-
-For an existing Vercel project, keep Root Directory at `./` and deploy the latest `main` commit. If you previously changed build settings, the repository configuration overrides the framework, install command, build command, and output directory. A deployment of an older commit will not include this fix.
-
-The homepage is `/`; study pages use hash URLs such as `/#practice` and `/#manage`. No rewrite rules are needed.
+Link: summitamc12prep.vercel.app
 
 ## Add, edit, or remove problems
 
